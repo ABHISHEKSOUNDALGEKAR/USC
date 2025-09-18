@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
+bootstrapped
+scikit-learn
+xgboost
+tensorflow
+pillow
+efficientnet
+tabulate
